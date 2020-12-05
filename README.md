@@ -30,7 +30,7 @@ Avisar de la introducción de una opción errónea de menú y continuar el progr
     Nº de mascarillas solicitadas por tipo (generadas aleatoriamente)
 
     Higiénicas   Quirúrgicas          FFP2          FFP3
-    370           734           587           437
+    370          734                  587           437
 
     1.Ver el pedido más grande
     2.Total de mascarillas pedidas
